@@ -2,16 +2,16 @@
 one page agency web
 DEMO : http://nosidelab.com/agency/
 
-### main (pc, mobile)
+## main (pc, mobile)
 ![main page](http://nosidelab.com/agency/img/main.JPG)
 
-### project
+## project
 ![project](http://nosidelab.com/agency/img/project.JPG)
 
-### player
+## player
 ![player](http://nosidelab.com/agency/img/player.JPG)
 
-### contact
+## contact
 ![contact](http://nosidelab.com/agency/img/contact.JPG)
 
 ## mobile
