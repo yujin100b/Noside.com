@@ -1,15 +1,16 @@
-# nosidelab.com
+# nosidelab.com 
+one page agency web
 DEMO : http://nosidelab.com/agency/
 
 ### main (pc, mobile)
-![main page](http://nosidelab.com/agency/img/main.jpg)
-![mobile page](http://nosidelab.com/agency/img/mobile.jpg)
+![main page](http://nosidelab.com/agency/img/main.JPG)
+![mobile page](http://nosidelab.com/agency/img/mobile.JPG)
 
 ### project
-![main page](http://nosidelab.com/agency/img/project.jpg)
+![project](http://nosidelab.com/agency/img/project.JPG)
 
 ### player
-![main page](http://nosidelab.com/agency/img/player.jpg)
+![player](http://nosidelab.com/agency/img/player.JPG)
 
 ### contact
-![main page](http://nosidelab.com/agency/img/contact.jpg)
+![contact](http://nosidelab.com/agency/img/contact.JPG)
