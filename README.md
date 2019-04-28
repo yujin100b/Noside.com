@@ -4,7 +4,6 @@ DEMO : http://nosidelab.com/agency/
 
 ### main (pc, mobile)
 ![main page](http://nosidelab.com/agency/img/main.JPG)
-![mobile page](http://nosidelab.com/agency/img/mobile.JPG)
 
 ### project
 ![project](http://nosidelab.com/agency/img/project.JPG)
@@ -14,3 +13,6 @@ DEMO : http://nosidelab.com/agency/
 
 ### contact
 ![contact](http://nosidelab.com/agency/img/contact.JPG)
+
+## mobile
+![mobile page](http://nosidelab.com/agency/img/mobile.JPG)
